@@ -38,7 +38,7 @@ class Client
     const AUTH_HTTP_PASSWORD = 'http_password';
 
     /**
-     * Constant for authentication method. Indicates the new login method with
+     * Constant for authentication method. Indicates the new login method
      * with username and token via HTTP Authentication.
      */
     const AUTH_HTTP_TOKEN = 'http_token';
